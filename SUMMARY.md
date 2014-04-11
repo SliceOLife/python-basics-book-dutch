@@ -2,6 +2,7 @@
 
 Add your chapters and articles in the following list:
 
+* [Installatie](basis/get-python.md)
 * [Basis](basis/README.md)
     * [Commentaar](basis/commentaar.md)
     * [Variabelen](basis/variabelen.md)
@@ -14,8 +15,12 @@ Add your chapters and articles in the following list:
     * [Aanmaken](strings/aanmaken.md)
     * [Samenvoegen](strings/samenvoegen.md)
     * [Lengte](strings/lengte.md)
-* [Conditionele logica](logica/README.md)
+    * [Input](strings/input.md)
+* [Logica](logica/README.md)
     * [IF](logica/if.md)
     * [ELSE / ELIF](logica/else.md)
     * [Vergelijkingen](logica/vergelijkingen.md)
-    * [Meerdere condities](logica/samenvoegen.md)
+    * [Meerdere condities](logica/samenvoegen.md))
+* [Aan de slag](code/README.md)
+    * [Uitleg](code/uitleg.md)
+    * [Experimenteer](code/experimenteer.md)

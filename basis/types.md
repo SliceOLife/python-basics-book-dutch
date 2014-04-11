@@ -15,3 +15,15 @@ De meest voorkomende types zijn:
 * **Arrays**: een collectie van waardes zoals: 1,2,3,4,'Goh, wat saai'
 
 Python is een *"dynamic and strongly typed"* taal, dit betekent dat je niet expliciet hoeft aan te geven wat voor type je variabelen zijn. De interpreter bepaalt gelukkig zelf wat voor type de variabele moet zijn aan de hand van de waarde die je er aan geeft.
+
+Waardes converteren kan worden gedaan met de str en int functies zoals hieronder:
+
+```python
+x = 5 # type integer
+y = 6 # type integer
+resultaat = x + y # type integer
+tekst = str(resultaat) # type string
+
+test2 = "27" # type string
+getal2 = int(test2) # type getal
+```
